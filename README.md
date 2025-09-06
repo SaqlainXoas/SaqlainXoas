@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=280&section=header&text=&fontSize=50&fontColor=ffffff&animation=twinkling"/>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="180" alt="AI Developer Animation"/>
+  <img src="https://raw.githubusercontent.com/avincodes/avincodes/refs/heads/main/749044136589393960.gif" width="180" alt="Waving Animation"/>
 </div>
 
 <h1 align="center">
@@ -39,8 +35,6 @@
 - ⚡ Philosophy: *"AI is not just about automation, it's about augmenting human potential"*
 
 <br clear="right"/>
-
----
 
 ## 🛠️ Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" style="max-width: 100%;">
 
