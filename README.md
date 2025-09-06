@@ -23,7 +23,7 @@
 
 ## 🚀 About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="200px"/>
+<img align="right" src="https://raw.githubusercontent.com/SaqlainXoas/SaqlainXoas/main/assets/animated.gif" width="200px" alt="AI Animation"/>
 
 **AI Developer on a mission to unravel the mysteries of the human mind. Continuously exploring AI systems, learning, and innovating to redefine tech.**
 
