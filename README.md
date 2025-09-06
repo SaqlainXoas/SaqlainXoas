@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/avincodes/avincodes/blob/main/749044136589393960.gif" width="180" alt="AI Developer Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="180" alt="AI Developer Animation"/>
 </div>
 
 <h1 align="center">
@@ -16,15 +16,18 @@
 </div>
 
 <div align="center" style="margin: 20px 0;">
-  <img src="https://komarev.com/ghpvc/?username=saqlainjuna&color=667eea&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/saqlainjuna?label=Followers&style=flat-square&color=764ba2&logoColor=white" alt="GitHub Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=SaqlainXoas&color=667eea&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </div>
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" alt="Git Header"/>
+</div>
+
 ## 🚀 About Me
 
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="200px"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="200px"/>
 
 **AI Developer on a mission to unravel the mysteries of the human mind. Continuously exploring AI systems, learning, and innovating to redefine tech.**
 
@@ -94,39 +97,56 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-### 🤖 ContentCraft Agents
-**Multi-Agent AI Content Generation Platform**
-<br>
-<sub>*LangGraph • FastAPI • OpenAI • Gemini • ChromaDB • React*</sub>
-
-### 🔧 AI Support Bot  
-**Slack-Based Agentic Assistant with RAG**
-<br>
-<sub>*LangGraph • GPT-4 • PostgreSQL • Slack API*</sub>
-
-### 🔒 XOAS - Privacy-First Chatbot
-**Local PDF Q&A with Complete Privacy**
-<br>
-<sub>*Hugging Face • Qdrant • LLaMA 3.2 • Streamlit*</sub>
-
-### 🏥 Real-Time Healthcare Translator
-**Voice Translation for Medical Settings**
-<br>
-<sub>*OpenAI Whisper • Google Translate • ElevenLabs*</sub>
-
-### ❤️ CardioVision
-**ECG-Based Heart Disease Detection**
-<br>
-<sub>*TensorFlow • Keras • OpenCV • CNN • 89% Accuracy*</sub>
-
-### 💊 AI-Accelerated Drug Discovery
-**Bioactivity Prediction System**
-<br>
-<sub>*RDKit • scikit-learn • XGBoost • LSTM • ChEMBL Database*</sub>
-
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 ContentCraft Agents</h3>
+      <p align="center">
+        <strong>Multi-Agent AI Content Generation Platform</strong><br>
+        <sub>LangGraph • FastAPI • OpenAI • Gemini • ChromaDB • React</sub>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🔧 AI Support Bot</h3>
+      <p align="center">
+        <strong>Slack-Based Agentic Assistant with RAG</strong><br>
+        <sub>LangGraph • GPT-4 • PostgreSQL • Slack API</sub>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🔒 XOAS - Privacy-First Chatbot</h3>
+      <p align="center">
+        <strong>Local PDF Q&A with Complete Privacy</strong><br>
+        <sub>Hugging Face • Qdrant • LLaMA 3.2 • Streamlit</sub>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🏥 Real-Time Healthcare Translator</h3>
+      <p align="center">
+        <strong>Voice Translation for Medical Settings</strong><br>
+        <sub>OpenAI Whisper • Google Translate • ElevenLabs</sub>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">❤️ CardioVision</h3>
+      <p align="center">
+        <strong>ECG-Based Heart Disease Detection</strong><br>
+        <sub>TensorFlow • Keras • OpenCV • CNN • 89% Accuracy</sub>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">💊 AI-Accelerated Drug Discovery</h3>
+      <p align="center">
+        <strong>Bioactivity Prediction System</strong><br>
+        <sub>RDKit • scikit-learn • XGBoost • LSTM • ChEMBL Database</sub>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -148,28 +168,7 @@
 
 ---
 
-## 🌐 Connect & Collaborate
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=667EEA&center=true&vCenter=true&width=500&lines=Let's+Connect+%26+Build+Together!;Open+to+AI+Collaborations;Always+Learning%2C+Always+Growing" alt="Connect Animation"/>
-
-<br><br>
-
-<a href="https://linkedin.com/in/saqlain-ahmed">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://medium.com/@saqlainjuna">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-</a>
-<a href="https://github.com/saqlainjuna">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="mailto:saqlainjuna@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-</div>
 
 ---
 
