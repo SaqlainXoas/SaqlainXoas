@@ -1,185 +1,99 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/avincodes/avincodes/refs/heads/main/749044136589393960.gif" width="180" alt="Waving Animation"/>
+  <img src="https://raw.githubusercontent.com/avincodes/avincodes/refs/heads/main/749044136589393960.gif" width="150" alt="Waving Robo"/>
+  
+  <h1> Hello Fellow Developers! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 </div>
 
-<h1 align="center">
-  Hello Fellow Developers! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
-</h1>
+<br>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=667EEA&center=true&vCenter=true&width=700&lines=AI+Developer+%26+ML+Engineer+🤖;RAG+Pipeline+Architect+⚡;Multimodal+AI+Specialist+🎯;Building+Intelligent+Systems+💫;Transforming+Ideas+into+Code+✨" alt="Typing SVG" />
+<h2> About Me </h2>
+
+<img align="right" alt="Coding" width="250" src="https://raw.githubusercontent.com/SaqlainXoas/SaqlainXoas/main/assets/animated.gif" />
+
+<div style="font-size: 16px; line-height: 1.5;">
+  My name is <b>Saqlain Ahmed</b>. I am an AI Developer unraveling the mysteries of the human mind through code. 🚀
+  <br><br>
+  I specialize in building intelligent systems using <b>Agentic Workflows</b>, <b>RAG Pipelines</b>, and <b>Multimodal AI</b>. My goal is to transform static data into living, cinematic experiences.
 </div>
 
-<div align="center" style="margin: 20px 0;">
-  <img src="https://komarev.com/ghpvc/?username=SaqlainXoas&color=667eea&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-</div>
+<br>
 
----
+- 🔭 I'm currently architecting **Advanced AI Systems** and **Multimodal Applications**.
+- 🌱 I'm currently diving deep into **Agentic Workflows** (LangGraph) and **Neural Architecture**.
+- 💡 I specialize in **RAG Pipelines**, **Computer Vision**, and **Generative AI**.
+- 🤝 I'm looking to collaborate on Open Source **AI Agents** & **Tooling**.
+- 💬 Talk to me about **LLMs**, **Future Tech**, and **Innovation**.
+- 📫 Contact me at **saqlainjuna@gmail.com**.
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" alt="Git Header"/>
-</div>
-
-## 🚀 About Me
-
-<img align="right" src="https://raw.githubusercontent.com/SaqlainXoas/SaqlainXoas/main/assets/animated.gif" width="200px" alt="AI Animation"/>
-
-**AI Developer on a mission to unravel the mysteries of the human mind. Continuously exploring AI systems, learning, and innovating to redefine tech.**
-
-- 🔭 Currently architecting **Advanced AI Systems** and **Multimodal Applications**
-- 🌱 Deep diving into **Agentic Workflows** and **Neural Architecture Design**  
-- 🎯 Specialized in **RAG Systems**, **LangGraph**, and **Computer Vision**
-- 💬 Love discussing **AI Innovation**, **Machine Learning**, and **Future Tech**
-- 📫 Connect with me: **saqlainjuna@gmail.com**
-- ⚡ Philosophy: *"AI is not just about automation, it's about augmenting human potential"*
+<br>
+<img src="https://komarev.com/ghpvc/?username=SaqlainXoas&color=667eea&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 
 <br clear="right"/>
+<br>
 
-## 🛠️ Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" style="max-width: 100%;">
+<h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"> </h2>
 
-<div align="center">
+<a href="https://www.python.org" target="_blank"> <img width='40px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'> </a>
+<a href="https://fastapi.tiangolo.com/" target="_blank"> <img width='40px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg'> </a>
+<a href="https://www.tensorflow.org" target="_blank"> <img width='40px' src='https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg'> </a>
+<a href="https://pytorch.org/" target="_blank"> <img width='40px' src='https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg'> </a>
+<a href="https://opencv.org/" target="_blank"> <img width='40px' src='https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg'> </a>
+<a href="https://openai.com/" target="_blank"> <img width='40px' src='https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg'> </a>
+<a href="https://deepmind.google/technologies/gemini/" target="_blank"> <img width='40px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg'> </a>
+<a href="https://huggingface.co/" target="_blank"> <img width='40px' src='https://huggingface.co/front/assets/huggingface_logo-noborder.svg'> </a>
+<a href="https://www.langchain.com/" target="_blank"> <img width='40px' src='https://avatars.githubusercontent.com/u/126733545?s=200&v=4'> </a>
+<a href="https://jupyter.org/" target="_blank"> <img width='40px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg'> </a>
+<a href="https://colab.research.google.com/" target="_blank"> <img width='40px' src='https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg'> </a>
+<a href="https://streamlit.io/" target="_blank"> <img width='40px' src='https://streamlit.io/images/brand/streamlit-mark-color.svg'> </a>
+<a href="https://qdrant.tech/" target="_blank"> <img width='40px' src='https://avatars.githubusercontent.com/u/73504361?s=200&v=4'> </a>
+<a href="https://www.anthropic.com/" target="_blank"> <img width='40px' src='https://www.anthropic.com/_next/image?url=%2Fimages%2Ficons%2Fandroid-chrome-512x512.png&w=64&q=75'> </a>
+<a href="https://www.arduino.cc/" target="_blank"> <img width='40px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg'> </a>
+<a href="https://github.com/" target="_blank"> <img width='40px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
 
-### 🤖 AI/ML Technologies
-<p>
-  <img src="https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/>
-  <img src="https://img.shields.io/badge/LangChain-121D33?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/>
-  <img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/LlamaIndex-7C3AED?style=for-the-badge&logoColor=white" alt="LlamaIndex"/>
+<br>
+
+
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> </h2>
+
+<a href="mailto:saqlainjuna@gmail.com">
+    <img height="45" src="https://user-images.githubusercontent.com/60597290/173854214-c646c175-420c-40a6-b994-25acf90dcac4.png" />
+</a>&nbsp;
+<a href="https://www.linkedin.com/in/saqlainahmed11">
+  <img height="45" alt="LinkedIn" src="https://user-images.githubusercontent.com/60597290/173852531-4343e250-e3cb-4bdb-b84f-50695c64aa12.png"/>
+</a>&nbsp;
+<a href="https://medium.com/@saqlainjuna">
+    <img height="45" src="https://user-images.githubusercontent.com/60597290/173852494-7b3ce86a-497d-4998-810e-35180b7bdea2.png" />
+</a>
+
+<br><br>
+
+<h2> Projects  <img width='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kubernetes.svg'> </h2>
+
+- 🔮 **[TimeCapsule](https://github.com/SaqlainXoas/TimeCapsule):** Your Own Jarvis. A 3D AI Time Travel Engine transforming text into cinematic, voice-narrated timelines using **LangGraph** & **Three.js**.
+  <br>*React 19, Three.js, FastAPI, LangGraph, Deepgram*
+
+- 🤖 **[ContentCraft Agents](https://github.com/SaqlainXoas/ContentCraft-Agents):** Multi-Agent AI Platform for autonomous content ideation and research.
+  <br>*LangGraph, FastAPI, Gemini, ChromaDB*
+
+- 🔧 **[AI Support Bot](https://github.com/SaqlainXoas/ai-support-bot):** Slack-Based Agentic Assistant with RAG and intelligent routing.
+  <br>*LangGraph, GPT-4, PostgreSQL, Slack API*
+
+- ❤️ **[CardioVision](https://github.com/SaqlainXoas/ecg-cvd-project):** Real-time ECG Heart Disease Detection using CNNs with 89% accuracy.
+  <br>*TensorFlow, Keras, OpenCV*
+
+<br>
+
+<h2> GitHub Stats  <img width='20px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </h2>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SaqlainXoas&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=SaqlainXoas&theme=radical&hide_border=true" />
 </p>
 
-### 💻 Programming & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaqlainXoas&layout=compact&theme=radical&hide_border=true" />
 </p>
 
-### 🗄️ Databases & Vector Stores
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-  <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white" alt="ChromaDB"/>
-  <img src="https://img.shields.io/badge/Qdrant-DC2626?style=for-the-badge&logoColor=white" alt="Qdrant"/>
-  <img src="https://img.shields.io/badge/Pinecone-00D4AA?style=for-the-badge&logoColor=white" alt="Pinecone"/>
-</p>
-
-### 🔧 Development Tools
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-</p>
-
-### 🎯 AI Specializations
-<p>
-  <img src="https://img.shields.io/badge/RAG_Systems-4A90E2?style=for-the-badge&logoColor=white" alt="RAG Systems"/>
-  <img src="https://img.shields.io/badge/Computer_Vision-FF6B6B?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision"/>
-  <img src="https://img.shields.io/badge/NLP-4ECDC4?style=for-the-badge&logoColor=white" alt="NLP"/>
-  <img src="https://img.shields.io/badge/Voice_AI-9B59B6?style=for-the-badge&logoColor=white" alt="Voice AI"/>
-  <img src="https://img.shields.io/badge/Multimodal_AI-F39C12?style=for-the-badge&logoColor=white" alt="Multimodal AI"/>
-</p>
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 ContentCraft Agents</h3>
-      <p align="center">
-        <strong>Multi-Agent AI Content Generation Platform</strong><br>
-        <sub>LangGraph • FastAPI • OpenAI • Gemini • ChromaDB • React</sub>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🔧 AI Support Bot</h3>
-      <p align="center">
-        <strong>Slack-Based Agentic Assistant with RAG</strong><br>
-        <sub>LangGraph • GPT-4 • PostgreSQL • Slack API</sub>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🔒 XOAS - Privacy-First Chatbot</h3>
-      <p align="center">
-        <strong>Local PDF Q&A with Complete Privacy</strong><br>
-        <sub>Hugging Face • Qdrant • LLaMA 3.2 • Streamlit</sub>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🏥 Real-Time Healthcare Translator</h3>
-      <p align="center">
-        <strong>Voice Translation for Medical Settings</strong><br>
-        <sub>OpenAI Whisper • Google Translate • ElevenLabs</sub>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">❤️ CardioVision</h3>
-      <p align="center">
-        <strong>ECG-Based Heart Disease Detection</strong><br>
-        <sub>TensorFlow • Keras • OpenCV • CNN • 89% Accuracy</sub>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">💊 AI-Accelerated Drug Discovery</h3>
-      <p align="center">
-        <strong>Bioactivity Prediction System</strong><br>
-        <sub>RDKit • scikit-learn • XGBoost • LSTM • ChEMBL Database</sub>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📝 Latest Insights
-
 <div align="center">
-  
-<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=000000" alt="Medium" width="120"/>
-
-**🧠 Recent Articles on AI & Technology**
-
-🤖 [**The Great AI Time Machine: From Simple Patterns to Digital Minds**](https://medium.com/@saqlainjuna/the-great-ai-time-machine-from-simple-patterns-to-digital-minds-that-see-think-and-dream-01e5363ab5af)
-
-🧠 [**The Hidden Mind of AI: How Large Language Models Actually Think**](https://medium.com/@saqlainjuna/the-hidden-mind-of-ai-how-large-language-models-actually-think-09d4cf10ce8a)
-
-🎯 [**The Art of Prompt Engineering: Inside Anthropic's Experts**](https://medium.com/@saqlainjuna/the-art-of-prompt-engineering-inside-the-minds-of-anthropics-experts-e4cf9950fec3)
-
-</div>
-
----
-
-
-
----
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaqlainXoas/SaqlainXoas/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaqlainXoas/SaqlainXoas/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SaqlainXoas/SaqlainXoas/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&animation=twinkling"/>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=✨+Building+the+Future+with+AI+✨;🚀+One+Algorithm+at+a+Time+🚀;💫+Innovation+Never+Stops+💫" alt="Footer Typing"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer&animation=twinkling"/>
 </div>
