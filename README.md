@@ -82,18 +82,3 @@
   <br>*TensorFlow, Keras, OpenCV*
 
 <br>
-
-<h2> GitHub Stats  <img width='20px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </h2>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SaqlainXoas&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=SaqlainXoas&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaqlainXoas&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer&animation=twinkling"/>
-</div>
