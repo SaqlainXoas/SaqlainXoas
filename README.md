@@ -95,14 +95,14 @@ Added an optional **PaddleOCR parser backend** with lazy dependency loading, sha
   <img width="24" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kubernetes.svg" alt="Projects" />
 </h2>
 
+- 📰 **[Saaf Baat](https://github.com/SaqlainXoas/saaf-baat)** — An AI-assisted daily news brief for Pakistan that turns reporting from multiple publishers into a finite, contextual edition with source attribution.
+  <br>*Gemini · FastAPI · Next.js · Supabase · GitHub Actions*
+
+- 🧠 **[GoFetch](https://github.com/SaqlainXoas/gofetch-notes)** — A personal memory app that combines keyword and semantic search to retrieve notes by exact words or meaning.
+  <br>*Hybrid Search · Gemini Embeddings · Chroma · FastAPI · Celery*
+  
 - 🔮 **[TimeCapsule](https://github.com/SaqlainXoas/TimeCapsule)** — An interactive AI timeline experience that transforms text into visual, voice-narrated stories.
   <br>*LangGraph · FastAPI · Three.js · Voice AI*
-
-- 🤖 **[ContentCraft Agents](https://github.com/SaqlainXoas/ContentCraft-Agents)** — A multi-agent workflow for content ideation, research, and generation.
-  <br>*LangGraph · FastAPI · Gemini · ChromaDB*
-
-- 🔧 **[AI Support Bot](https://github.com/SaqlainXoas/ai-support-bot)** — A Slack-based AI assistant with intelligent routing and retrieval-augmented responses.
-  <br>*LangGraph · RAG · PostgreSQL · Slack API*
 
 - ❤️ **[ECG CVD Project](https://github.com/SaqlainXoas/ecg-cvd-project)** — Real-time ECG heart disease detection using CNNs with **89% accuracy**.
   <br>*TensorFlow · Keras · OpenCV*
